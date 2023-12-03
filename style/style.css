@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@400;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Anton", sans-serif;
+}
+
+#home .banner .carousel .carousel-item .carousel-caption {
+  margin-bottom: 20rem;
+}
+
+#home .banner .carousel .carousel-item img {
+  opacity: 0.4;
+}
+
+#news .section.news {
+  margin-top: 50px;
+}
+
+#informasi {
+  margin-top: 9rem;
+}
+
+.informatika-custom {
+  text-align: justify;
+}
+
+#galeri {
+  margin-top: 9rem;
+}
+
+#faktaAngka {
+  margin-top: 9rem;
+}
+
+#struktur {
+  margin-top: 9rem;
+}
+
+#penghargaan {
+  margin-top: 9rem;
+}
+
+#rencanaSemester {
+  margin-top: 9rem;
+}
+
+#kurikulum {
+  margin-top: 9rem;
+}
+
+#dosen {
+  margin-top: 9rem;
+}
+
+#mitra {
+  margin-top: 9rem;
+}
+
+#program {
+  margin-top: 9rem;
+}
+
+#alumni {
+  margin-top: 9rem;
+}
+
+#hmif {
+  margin-top: 9rem;
+}
+
+#mbkm {
+  margin-top: 9rem;
+}
+
+footer {
+  margin-top: 6rem;
+}
